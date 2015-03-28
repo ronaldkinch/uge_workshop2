@@ -1,3 +1,6 @@
+GitHub is a hub of gits
+You can push and pull commits
+You can also clone
 master branch is a label created at init
 HEAD is label to current branch
 HEAD is *not* a branch

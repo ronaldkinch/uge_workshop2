@@ -1,3 +1,5 @@
+#Hidden folder where repository is
+.git/
 #fish shortcut longformat
 ll
 #list long format

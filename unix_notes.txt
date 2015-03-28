@@ -1,0 +1,514 @@
+#fish shortcut longformat
+ll
+#list long format
+ls -l
+ls
+# history into file
+history > moving_around.txt
+man less
+history | less
+history
+git --version
+#display editor
+echo $EDITOR
+subl
+sudo apt-get check
+ls -G
+subl .
+ls .
+pwd
+cd
+cd ../
+cd ../..
+cd
+cd ..
+ls -R
+cd Downloads/
+ls -a
+cd Documents/
+cd Desktop
+cd Desktpo
+cd Dexktpo
+cd /
+cd/
+ls -aG
+cd ~
+ls -1
+ls -p
+ls -Ss
+ls -S
+man ls
+ls -rt
+ls -rlt
+ls -rl
+ls -r
+ls -lt
+ls -l -t
+ls -t
+dir
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config -l
+sudo apt-get install -y git
+echo $PATH
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudp apt-get install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git --force-yes
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+udo apt-get update
+uname
+git --versopn
+git --v
+cvbnm
+exit
+git config --global user.name "Ronald Kinch"
+git config
+git config --list
+cd Store
+cal
+ps ax
+ps x
+ps
+help history
+x
+info egrep
+info grep
+info
+help
+l
+la
+alias
+alias rm='rm -i'
+git status
+help more
+less examples.desktop
+more examples.desktop
+more Desktop
+ls -F -R -A
+ls -F -R -a
+ls -F -R
+ls -F -r
+ls -F
+ls -f
+info ls
+info man
+man -k man
+help man
+help ls
+git help commit
+git help add
+quit
+q
+rm -r .git
+info rm
+help rm
+git log
+git config --get-all user.name
+git config --get-all color.ui
+git config --global color.ui true
+git help config
+git config get-all color.ui
+git config --global user.email ronaldkinch@comcast.net
+git config --global user.name "ronaldkinch"
+git config --get-all *
+git config --get-all
+git help
+dir .git
+dir -a
+man dir
+dirs
+help dirs
+help dir
+git init
+dir ..
+mkdir Store
+man mkdir
+info mkdir
+help mkdir
+dir -h
+dir /home/preferred
+dir /home/prefered
+dir /home
+dir /
+dir ../..
+git close
+git quit
+git help init
+git config -f
+sudo apt-get install git
+Downloads for Linux
+Release Notes (2015-03-14)
+2.3.3
+Latest source Release
+man 1
+man h
+man
+/
+gnome-terminal --help
+-- help
+-h
+gnome-terminal
+xterm -help
+xterm --help -fs size
+xterm --help
+dir :/Desktop
+dir /Desktop
+cd .
+cd Music
+cd downloads
+dir/p
+iwconfig
+sudo apt-get upgrade
+ll
+history > moving_around.txt
+ls -l
+ls
+man less
+history | less
+history
+git --version
+echo $EDITOR
+echo $E
+subl
+sudo apt-get check
+ls -G
+subl .
+ls .
+pwd
+cd
+cd ../
+cd ../..
+cd
+cd ..
+ls -R
+cd Downloads/
+ls -a
+cd Documents/
+cd Desktop
+cd Desktpo
+cd Dexktpo
+cd /
+cd/
+ls -aG
+cd ~
+ls -1
+ls -p
+ls -Ss
+ls -S
+man ls
+ls -rt
+ls -rlt
+ls -rl
+ls -r
+ls -lt
+ls -l -t
+ls -t
+dir
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config -l
+sudo apt-get install -y git
+echo $PATH
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudp apt-get install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git --force-yes
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+udo apt-get update
+uname
+git --versopn
+git --v
+cvbnm
+exit
+git config --global user.name "Ronald Kinch"
+git config
+git config --list
+cd Store
+cal
+ps ax
+ps x
+ps
+help history
+x
+info egrep
+info grep
+info
+help
+l
+la
+alias
+alias rm='rm -i'
+git status
+help more
+less examples.desktop
+more examples.desktop
+more Desktop
+ls -F -R -A
+ls -F -R -a
+ls -F -R
+ls -F -r
+ls -F
+ls -f
+info ls
+info man
+man -k man
+help man
+help ls
+git help commit
+git help add
+quit
+q
+rm -r .git
+info rm
+help rm
+git log
+git config --get-all user.name
+git config --get-all color.ui
+git config --global color.ui true
+git help config
+git config get-all color.ui
+git config --global user.email ronaldkinch@comcast.net
+git config --global user.name "ronaldkinch"
+git config --get-all *
+git config --get-all
+git help
+dir .git
+dir -a
+man dir
+dirs
+help dirs
+help dir
+git init
+dir ..
+mkdir Store
+man mkdir
+info mkdir
+help mkdir
+dir -h
+dir /home/preferred
+dir /home/prefered
+dir /home
+dir /
+dir ../..
+git close
+git quit
+git help init
+git config -f
+sudo apt-get install git
+Downloads for Linux
+Release Notes (2015-03-14)
+2.3.3
+Latest source Release
+man 1
+man h
+man
+/
+gnome-terminal --help
+-- help
+-h
+gnome-terminal
+xterm -help
+xterm --help -fs size
+xterm --help
+dir :/Desktop
+dir /Desktop
+cd .
+cd Music
+cd downloads
+dir/p
+iwconfig
+sudo apt-get upgrade
+ll
+history >> moving_around.txt
+history > moving_around.txt
+ls -l
+ls
+man less
+history | less
+history
+git --version
+echo $EDITOR
+echo $E
+subl
+sudo apt-get check
+ls -G
+subl .
+ls .
+pwd
+cd
+cd ../
+cd ../..
+cd
+cd ..
+ls -R
+cd Downloads/
+ls -a
+cd Documents/
+cd Desktop
+cd Desktpo
+cd Dexktpo
+cd /
+cd/
+ls -aG
+cd ~
+ls -1
+ls -p
+ls -Ss
+ls -S
+man ls
+ls -rt
+ls -rlt
+ls -rl
+ls -r
+ls -lt
+ls -l -t
+ls -t
+dir
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config -l
+sudo apt-get install -y git
+echo $PATH
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudp apt-get install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git --force-yes
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+udo apt-get update
+uname
+git --versopn
+git --v
+cvbnm
+exit
+git config --global user.name "Ronald Kinch"
+git config
+git config --list
+cd Store
+cal
+ps ax
+ps x
+ps
+help history
+x
+info egrep
+info grep
+info
+help
+l
+la
+alias
+alias rm='rm -i'
+git status
+help more
+less examples.desktop
+more examples.desktop
+more Desktop
+ls -F -R -A
+ls -F -R -a
+ls -F -R
+ls -F -r
+ls -F
+ls -f
+info ls
+info man
+man -k man
+help man
+help ls
+git help commit
+git help add
+quit
+q
+rm -r .git
+info rm
+help rm
+git log
+git config --get-all user.name
+git config --get-all color.ui
+git config --global color.ui true
+git help config
+git config get-all color.ui
+git config --global user.email ronaldkinch@comcast.net
+git config --global user.name "ronaldkinch"
+git config --get-all *
+git config --get-all
+git help
+dir .git
+dir -a
+man dir
+dirs
+help dirs
+help dir
+git init
+dir ..
+mkdir Store
+man mkdir
+info mkdir
+help mkdir
+dir -h
+dir /home/preferred
+dir /home/prefered
+dir /home
+dir /
+dir ../..
+git close
+git quit
+git help init
+git config -f
+sudo apt-get install git
+Downloads for Linux
+Release Notes (2015-03-14)
+2.3.3
+Latest source Release
+man 1
+man h
+man
+/
+gnome-terminal --help
+-- help
+-h
+gnome-terminal
+xterm -help
+xterm --help -fs size
+xterm --help
+dir :/Desktop
+dir /Desktop
+cd .
+cd Music
+cd downloads
+dir/p
+iwconfig
+sudo apt-get upgrade
